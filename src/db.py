@@ -1,6 +1,6 @@
 import sqlite3
 
-from src.models import JobModel
+from models import JobModel
 
 
 class Database:
